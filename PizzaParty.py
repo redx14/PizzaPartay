@@ -1,4 +1,3 @@
-#Andrey Ilkiv Assignment 5 Problem 1 Section 01 10/19/2020
 
 #user inputs such as budget, cost per slice, cost per pie, and amount of guests coming
 budget = int(input("Enter budget for your party: "))
